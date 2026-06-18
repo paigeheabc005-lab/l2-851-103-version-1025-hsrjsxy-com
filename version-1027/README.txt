@@ -1,1 +1,0 @@
-Static movie site generated from uploaded assets. Open index.html in a browser.
